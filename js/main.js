@@ -56,9 +56,9 @@ $(document).ready(function() {
             }
         }
     });
-    //Perload carousol --------------------------
-    $(window).on("load", function() {
-        $(".preloader").fadeOut("slow");
+    // //Perload carousol --------------------------
+    // $(window).on("load", function() {
+    //     $(".preloader").fadeOut("slow");
 
-    });
+    // });
 });
